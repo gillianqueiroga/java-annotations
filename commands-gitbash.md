@@ -21,4 +21,20 @@
 
  - git commit -m "Write change message here"
 
+ - git remote add origin [link http from github] => add repository remote
+
+ - git push origin master/main => push changes
+
+ - git pull origin master/main => pull changes
+
+ - git clone [link http from github ] => clone repository from github
+
+   ​
+
+   ### Steps to commit/push
+
+   - add
+   - commit
+   - push
+
    ​
